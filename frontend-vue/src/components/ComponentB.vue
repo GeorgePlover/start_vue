@@ -1,6 +1,6 @@
 <template>
     <div>
-      <h1>Hello, this is Component B!</h1>
+      <h1>Records of Authors</h1>
       <!-- 其他 ComponentB 的内容 -->
     </div>
   </template>
